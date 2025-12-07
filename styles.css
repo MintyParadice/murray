@@ -1,6 +1,32 @@
 /* Universal Style Sheet */
 
+#title #logo
+{
+    width: 10%;
+    height: 10%;
+}
+
+#title
+{
+    color: white;
+    text-align: center;
+}
+
 body
 {
     background: #000000;
-} 
+}
+
+#hero-image img
+{
+    border: #FA7921 4px solid;
+    width: 90%;
+    height: 90%;
+    text-align: center;
+}
+
+#hero-image p 
+{
+    text-align: center;
+    color:white;
+}
